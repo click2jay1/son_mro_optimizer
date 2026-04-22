@@ -18,13 +18,14 @@ This Proof of Concept (PoC) demonstrates a **Self Organizing Network (SON)** use
 - Pytest (testing)
 
 ## Folder Structure
+```text
 son_mro_optimizer/
 ├── src/ # Source code
 ├── tests/ # Unit tests
 ├── data/ # Generated handover logs
 ├── output/ # Optimization reports
 └── requirements.txt # Dependencies
-
+```
 
 ## How to Run
 
@@ -32,19 +33,19 @@ son_mro_optimizer/
 ```bash
 pip install -r requirements.txt
 
-2. Generate sample handover data
+### 2. Generate sample handover data
 python src/generate_sample_data.py
 
-3. Run MRO analysis
+### 3. Run MRO analysis
 python src/mro_analyzer.py
 
-4. Generate visualization
+### 4. Generate visualization
 python src/visualizer.py
 
-5. Run tests
+### 5. Run tests
 pytest tests/ -v
 
-Sample Output
+###Sample Output
 === MRO Analysis Report ===
 
 Cell 101: Too-late handovers rate = High priority
@@ -54,9 +55,8 @@ Optimization applied to 4 cells.
 Expected handover failure reduction: ~30-40%
 
 
-Author
-Jay Raj Prakash — Created for Nokia Senior System Specification Engineer application
-
+## Author
+Jay Raj Prakash
 GitHub Repository
 https://github.com/click2jay1/son_mro_optimizer
 
