@@ -61,7 +61,10 @@ Expected handover failure reduction: ~30-40%
 ```
 
 ## Author
+```text
 Jay Raj Prakash
-GitHub Repository
-https://github.com/click2jay1/son_mro_optimizer
+📧 jayrajprakash@outlook.com 
+🔗 GitHub Profile 
+📍 Greater Seattle Area, WA
+```
 
