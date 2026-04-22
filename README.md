@@ -1,4 +1,6 @@
-﻿# SON MRO Optimizer - 4G/5G Network Optimization PoC
+﻿[![CI/CD Pipeline](https://github.com/click2jay1/son_mro_optimizer/actions/workflows/test.yml/badge.svg)](https://github.com/click2jay1/son_mro_optimizer/actions/workflows/test.yml)
+
+# SON MRO Optimizer - 4G/5G Network Optimization PoC
 
 ## Purpose
 This Proof of Concept (PoC) demonstrates a **Self Organizing Network (SON)** use case called **Mobility Robustness Optimization (MRO)** for 4G/5G radio access networks. It simulates handover log analysis and suggests optimal handover thresholds.
@@ -57,3 +59,4 @@ Jay Raj Prakash — Created for Nokia Senior System Specification Engineer appli
 
 GitHub Repository
 https://github.com/click2jay1/son_mro_optimizer
+
