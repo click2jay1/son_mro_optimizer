@@ -30,22 +30,27 @@ son_mro_optimizer/
 ## How to Run
 
 ### 1. Install dependencies
-```bash
+```text
 pip install -r requirements.txt
-
+```
 ### 2. Generate sample handover data
+```text
 python src/generate_sample_data.py
-
+```
 ### 3. Run MRO analysis
+```text
 python src/mro_analyzer.py
-
+```
 ### 4. Generate visualization
+```text
 python src/visualizer.py
-
+```
 ### 5. Run tests
+```text
 pytest tests/ -v
-
+```
 ###Sample Output
+```text
 === MRO Analysis Report ===
 
 Cell 101: Too-late handovers rate = High priority
@@ -53,7 +58,7 @@ Cell 101: Too-late handovers rate = High priority
 
 Optimization applied to 4 cells.
 Expected handover failure reduction: ~30-40%
-
+```
 
 ## Author
 Jay Raj Prakash
