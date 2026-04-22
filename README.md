@@ -49,7 +49,7 @@ python src/visualizer.py
 ```text
 pytest tests/ -v
 ```
-###Sample Output
+### Sample Output
 ```text
 === MRO Analysis Report ===
 
@@ -61,8 +61,8 @@ Expected handover failure reduction: ~30-40%
 ```
 
 ## Author
-```text
 **Jay Raj Prakash**
+```text
 📧 jayrajprakash@outlook.com 
 🔗 GitHub Profile 
 📍 Greater Seattle Area, WA
