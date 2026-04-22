@@ -1,0 +1,13 @@
+=== MRO Analysis Report ===
+
+Cell 101: Too-late handovers rate = High priority
+  -> Increase TimeToTrigger (TTT) by 40ms
+Cell 102: Too-early handovers rate = Medium priority
+  -> Decrease A3 offset by 0.5dB
+Cell 103: Too-late handovers rate = High priority
+  -> Increase TimeToTrigger (TTT) by 40ms
+Cell 105: Too-late handovers rate = High priority
+  -> Increase TimeToTrigger (TTT) by 40ms
+
+Optimization applied to 4 cells.
+Expected handover failure reduction: ~30-40%
