@@ -64,7 +64,7 @@ Expected handover failure reduction: ~30-40%
 **Jay Raj Prakash**
 ```text
 📧 jayrajprakash@outlook.com 
-🔗 GitHub Profile 
+🔗 https://github.com/click2jay1
 📍 Greater Seattle Area, WA
 ```
 
